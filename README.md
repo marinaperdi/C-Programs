@@ -1,7 +1,7 @@
 <h1>C Programs</h1>
 
 <h2>Description</h2>
-Project consists of a series of assignments from CS202 Secure Programming focused on core programming concepts and creative Turtle graphics implementations.
+This repository contains a collection of C programs that demonstrate various algorithms, data structures, and problem-solving techniques.
 <br />
 
 <h3>Program 1</h3>
